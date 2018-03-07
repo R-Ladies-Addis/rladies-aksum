@@ -4,7 +4,7 @@ text:
 archive: Y
 location: Aksum University, Room 210
 link: 
-date: 2018-04-07
+date: 2018-04-11
 startTime: '14:00'
 endTime: '16:00'
 ---
