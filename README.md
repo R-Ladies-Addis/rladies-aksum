@@ -1,4 +1,4 @@
-R-Ladies Axum Study Group (a [R-ladies Addis Study Group](https://r-ladies-addis.github.io/studyGroup))
+R-Ladies Axum Study Group (a [R-ladies Study Group](https://r-ladies-addis.github.io/studyGroup))
 ============
 
 Welcome to R-Ladies's Study Group. We are a group of students, staff, and researchers interested in open science, coding, reproducible research, and research. We're an open group and anyone associated with Axum University is welcome to join, attend, or lead a session. 
