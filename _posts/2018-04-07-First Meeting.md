@@ -3,7 +3,7 @@ title: 1st General Meetup for R-Ladies Aksum
 text: 
 archive: Y
 location: Aksum University, Room 210
-link: https://github.com/mesfind/rladies-addis/issues/6
+link: 
 date: 2018-04-07
 startTime: '14:00'
 endTime: '16:00'
